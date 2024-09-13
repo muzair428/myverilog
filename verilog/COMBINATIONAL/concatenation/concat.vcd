@@ -1,0 +1,30 @@
+$date
+	Wed Sep 11 12:29:38 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module concat_tb $end
+$var wire 3 ! c [2:0] $end
+$var reg 2 " a [1:0] $end
+$var reg 2 # b [1:0] $end
+$scope module u_gate $end
+$var wire 2 $ a [1:0] $end
+$var wire 2 % b [1:0] $end
+$var wire 3 & c [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b11 &
+b11 %
+b10 $
+b11 #
+b10 "
+b11 !
+$end
+#5

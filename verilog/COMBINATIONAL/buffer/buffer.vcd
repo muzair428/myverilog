@@ -1,0 +1,33 @@
+$date
+	Wed Sep 11 13:02:39 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module buffer_tb $end
+$var wire 2 ! b [1:0] $end
+$var reg 2 " a [1:0] $end
+$var reg 1 # en $end
+$scope module u_gate $end
+$var wire 2 $ a [1:0] $end
+$var wire 1 # en $end
+$var wire 2 % b [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 %
+b10 $
+1#
+b10 "
+b0 !
+$end
+#5
+b10 !
+b10 %
+0#
+#10

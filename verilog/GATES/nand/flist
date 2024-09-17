@@ -1,0 +1,2 @@
+${CORE_ROOT}/tb/nand_gate_tb.v
+${CORE_ROOT}/src/nand_gate.v

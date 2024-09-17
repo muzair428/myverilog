@@ -1,0 +1,4 @@
+${CORE_ROOT}/tb/and_gate_tb.v
+${CORE_ROOT}/src/and_gate.v
+
+

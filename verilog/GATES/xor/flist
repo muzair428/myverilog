@@ -1,0 +1,2 @@
+${CORE_ROOT}/tb/xor_gate_tb.v
+${CORE_ROOT}/src/xor_gate.v

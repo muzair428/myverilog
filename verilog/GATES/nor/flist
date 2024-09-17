@@ -1,0 +1,2 @@
+${CORE_ROOT}/tb/nor_gate_tb.v
+${CORE_ROOT}/src/nor_gate.v

@@ -1,0 +1,2 @@
+${CORE_ROOT}/tb/OR_GATE_tb.v
+${CORE_ROOT}/src/OR_GATE.v
